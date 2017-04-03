@@ -179,7 +179,7 @@ package_sausages <- function(plots, outfile){
       
       credits <- pad +
             annotate(geom="text", 
-                     label="Visualization by Matthew Moore Kling.\nCode at github.com/matthewkling/shapeshift.\nDaily climate data from DAYMET.", 
+                     label="Visualization by Matthew Moore Kling.\nCode at github.com/matthewkling/shapeshifting.\nDaily climate data from DAYMET.", 
                      size=7, hjust=.5, color="gray20",
                      x=0, y=0, lineheight=1)
       
